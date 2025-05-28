@@ -1,8 +1,11 @@
 # Creative-Coding-SA2
 
-Hello, I'm Dawna Xylvia Pinzon, and I will be uploading my code and work from my Sway Portfolio. 
-A short recap of the list of activities in our Creative Coding, Sway Portfolio that will be seen from this repository:
+<p>
+Hello there! I'm Dawna Xylvia Pinzon, a CC L4 Year 1, Group 3 Student >:D <br>
+As instructed by our tutor on this subject, I will upload my code and work from my Sway Portfolio to this Repository. Everything is provided in this repository,
+If there is any confusion or inquiry, I will be a message away via WhatsApp or Email. Thank you for reading and have a nice day!!!</p><br><br>
 
+<p>A short recap of the list of activities in our Creative Coding:</p>
 <ul>
     <li><strong>Act 1</strong> - Car</li>
     <li><strong>Act 2</strong> - Colorization & Animation</li>
